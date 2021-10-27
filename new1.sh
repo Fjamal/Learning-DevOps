@@ -4,7 +4,7 @@ var1= `rev $var`
 
 if [ $var == $var1 ]
 	then
-		echo "true"
+		echo "TRUE"
 	else 
 		echo "false"
 fi 
