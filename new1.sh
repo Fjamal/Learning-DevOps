@@ -6,6 +6,6 @@ if [ $var == $var1 ]
 	then
 		echo "TRUE"
 	else 
-		echo "false"
+		echo "FALSE"
 fi 
 
