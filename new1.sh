@@ -9,3 +9,4 @@ if [ $var == $var1 ]
 		echo "FALSE"
 fi 
 
+wqfrg
