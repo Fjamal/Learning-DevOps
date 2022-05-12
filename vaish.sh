@@ -1,2 +1,2 @@
 this is a test file
-a=10
+a=30
